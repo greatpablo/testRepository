@@ -5,5 +5,10 @@ li{
     
     padding: 2em;
     margin: 1em;
-    border-style: solid;
+    border:2px solid rgb(6, 160, 221);
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
 }
